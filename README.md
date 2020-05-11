@@ -13,7 +13,7 @@ What you can do in this project:
 * Delete Data(Manually or bulk)
 
 ## Hosted at
-index-db-crud-operations.biswabijaya.now.sh
+https://index-db-crud-operations.biswabijaya.now.sh
 
 ### So basically this project is amazing to understand IndexDB Database.
 Just Downlaod this project and enjoy...!
